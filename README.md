@@ -3,4 +3,6 @@
 Neuromorphic Materials Device Lab intern
 
 Implemented Limited History Solution in NeuroSim
+
+
 Analyzed momentum optimizer algorithm, found the optimal conditions for real device conditions
